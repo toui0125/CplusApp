@@ -1,0 +1,2 @@
+こんにちは！私は$replaceです。あなたの名前は何ですか？
+Hello, I am $replace. What is your name?
